@@ -24,54 +24,5 @@
 
     </div>
 
-    <!-- Section Features -->
-    <div class="row section-features">
-
-      <div class="col-md-4 col-sm-6 text-right">
-
-        {% for feature in site.core-features-left %}
-
-        <div class="feature">
-          <div class="text-wrap">
-            <h3>{{ feature.name }}</h3>
-            <p>{{ feature.description }}</p>
-          </div>
-          <div class="icon-wrap">
-            <div class="circle parent">
-              <i class="{{ feature.icon }} child-center"></i>
-            </div>
-          </div>
-        </div>
-
-        {% endfor %}
-
-      </div>
-
-      <div class="col-md-4 phone">
-        <img src="{{ site.baseurl }}/images/phone.png" alt="Phone Image" />
-      </div>
-
-      <div class="col-md-4 col-sm-6 text-left">
-
-        {% for feature in site.core-features-right %}
-
-        <div class="feature">
-          <div class="text-wrap">
-            <h3>{{ feature.name }}</h3>
-            <p>{{ feature.description }}</p>
-          </div>
-          <div class="icon-wrap">
-            <div class="circle parent">
-              <i class="{{ feature.icon }} child-center"></i>
-            </div>
-          </div>
-        </div>
-
-        {% endfor %}
-
-      </div>
-
-    </div>
-
   </div>
 </section>
