@@ -18,7 +18,7 @@ exclude: ["node_modules", "gulpfile.js", "package.json", "Gemfile", "README.md"]
 baseurl:
 
 # the base hostname & protocol for your site
-url: "http://localhost:3000"
+url: "http://localhost:4000"
 
 ####################################
 ######   Optional Features    ######
@@ -47,11 +47,11 @@ jekyll-archives:
 #######################################################
 
 # This is your site title
-title: Sera - OnePage Multi-Purpose Theme
+title: Cyber Security Society - University of Wolverhampton
 # Website language
-lang: en-US
+lang: en-UK
 # Header Title
-header-title: Create the <strong>Impossible</strong>
+header-title: Test <strong>Impossible</strong>
 # Header Tagline
 headter-tagline: We Always
 
