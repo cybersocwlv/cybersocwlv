@@ -113,7 +113,7 @@ mailchimp:
 #############   About   #############
 #####################################
 about-title: Welcome
-about-description: This is the website for the University of Wolverhamptons Cyber Security Society. Membership is beneficial to anyone studying or working within the IT field, Management and Business students may also find keeping current on cyber security provides an advantage. Additionally, anyone with an interest in cyber security is encouraged to join.
+about-description: This is the website for the University of Wolverhamptons Cyber Security Society. Membership is beneficial to anyone studying a subject within the IT field, Management and Business students may also find keeping current on cyber security provides an advantage. Additionally, anyone with an interest in cyber security is encouraged to join.
 
 
 #####################################
@@ -147,7 +147,7 @@ features:
 ##########  Upcoming Events  ##########
 #####################################
 core-title: Upcoming Events
-core-description: This section will contain upcoming events once they have been scheduled.
+core-description: This section will contain upcoming events once they have been scheduled. Some of our events are open to non-students.
 
 
 #####################################
