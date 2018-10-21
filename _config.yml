@@ -113,14 +113,14 @@ mailchimp:
 #############   About   #############
 #####################################
 about-title: Welcome
-about-description: This is the website for the University of Wolverhamptons Cyber Security Society. Membership is beneficial to anyone studying a subject within the IT field, Management and Business students may also find keeping current on cyber security provides an advantage as well. Additionally, anyone with an interest in cyber security may find membership useful.
+about-description: This is the website for the University of Wolverhamptons Cyber Security Society. Membership is beneficial to anyone studying or working within the IT field, Management and Business students may also find keeping current on cyber security provides an advantage. Additionally, anyone with an interest in cyber security is encouraged to join.
 
 
 #####################################
 #############  What We Do  ############
 #####################################
 features-title: What We Do
-features-description: In keeping with the aims of the society we regularly meet to share knowledge and support eachothers learning. We aim to provide oppurtunities to network, we create learning materials, organise trips, invite guest speakers and run events.
+features-description: In keeping with the aims of the society we regularly meet to share knowledge and support each others learning. We aim to provide opportunities to network, we create learning materials, organise trips, invite guest speakers and run events.
 
 #
 # Features
@@ -134,12 +134,12 @@ features:
 
 # Feature
 - title: Learning & Support
-  description: We are a group of students and staff who get together to share knowledge and support eachothers learning.
+  description: We are a group of students and staff who get together to share knowledge and support each others learning.
   icon: pe-7s-help2
 
 # Feature
 - title: Networking
-  description: Through regular meetings, events and presentations, often with guest speakers you have the oppurtunity to network.
+  description: Through regular meetings, events and presentations, often with guest speakers you have the opportunity to network.
   icon: pe-7s-vector
 
 
@@ -185,7 +185,7 @@ team:
 
 # Team Member
 - name: Ecaterina Doe
-  tagline: Comunications Secretary
+  tagline: Communications Secretary
   avatar: avatar-03.jpg
 
 # Team Member
