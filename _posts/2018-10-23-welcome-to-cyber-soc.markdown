@@ -8,27 +8,35 @@ tags: [News, Society]
 image: john-schnobrich-520023-unsplash.jpg
 ---
 
-Hello there. This post will breifly explain what we're all about, why the society exists and why you should get involved.
+Hello there! This post will breifly explain what we're all about, why the society exists and why you should get involved.
 
 ### Our Aims
 
 * To create a community for the discussion of cuber security related topics, to increase understand and knowledge of the subject.
+
 * To provide the oppurtunity for students to network and build career links.
+
 * To advocate cyber security within the university and provide oppurtunities for students studying any element of cyber security.
 
 
 ### Our Objectives
 
 * To host events and meetings to provide a forum for discussion of cyber security.
+
 * To organise trops to pleacs of interet, including conferences, careers fairs and similar events.
+
 * Advocate student issues and lobby were appropriate.
 
 
 ### Membership
 
-Membership is open to students only, this is required by Wolverhampton Student Union.
+There are three types of members:
 
-However, Associate Members and Alumni Members can join the society who are not students of the University of Wolverhampton.
+**Members** - open to students of studying a course relevant in some way to cyber security.
+
+**Associate Members** - open to students of non-cyber security related cources and non-students.
+
+**Alumni Members** - open to former students of courses relating to cyber security.
 
 
 ### Our Plans
@@ -44,5 +52,7 @@ Meetings and events will be at convenient times when students are already in Uni
 Please share any ideas you have as well!
 
 We are an open and interested society.
+
+---
 
 Thanks for reading. Hope to see you at our meetings! (see the events section on the main page for timetables)
