@@ -12,33 +12,33 @@ Hello there! This post will breifly explain what we're all about, why the societ
 
 ### Our Aims
 
-&npsp;
+&nbsp;
 1. To create a community for the discussion of cuber security related topics, to increase understand and knowledge of the subject.
 
-&npsp;
+&nbsp;
 2. To provide the oppurtunity for students to network and build career links.
 
-&npsp;
+&nbsp;
 3. To advocate cyber security within the university and provide oppurtunities for students studying any element of cyber security.
 
-&npsp;
+&nbsp;
 
 ### Our Objectives
 
-&npsp;
+&nbsp;
 1. To host events and meetings to provide a forum for discussion of cyber security.
 
-&npsp;
+&nbsp;
 2. To organise trops to pleacs of interet, including conferences, careers fairs and similar events.
 
-&npsp;
+&nbsp;
 3. Advocate student issues and lobby were appropriate.
 
-&npsp;
+&nbsp;
 
 ### Membership
 
-&npsp;
+&nbsp;
 There are three types of members:
 
 **Members** - open to students studying a course relevant in some way to cyber security.
@@ -50,7 +50,7 @@ There are three types of members:
 
 ### Our Plans
 
-&npsp;
+&nbsp;
 Meetings and events will be at convenient times when students are already in University, unless a particularly special event is organised.
 
 * We plan to get external speakers, internal speakers and provide the oppurtunity for students to present to students - sharing knowledge you might have (we all have different backgrounds). The aim of these presentations is to give members a broader knowledge base and enhance highly valuable technical skills.
