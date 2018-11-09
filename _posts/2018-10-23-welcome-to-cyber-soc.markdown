@@ -14,19 +14,23 @@ Hello there! This post will breifly explain what we're all about, why the societ
 
 &nbsp;
 1. To create a community for the discussion of cuber security related topics, to increase understand and knowledge of the subject.
+
 &nbsp;
 2. To provide the oppurtunity for students to network and build career links.
 
+&nbsp;
 3. To advocate cyber security within the university and provide oppurtunities for students studying any element of cyber security.
 
 
 ### Our Objectives
 
-
+&nbsp;
 1. To host events and meetings to provide a forum for discussion of cyber security.
 
+&nbsp;
 2. To organise trops to pleacs of interet, including conferences, careers fairs and similar events.
 
+&nbsp;
 3. Advocate student issues and lobby were appropriate.
 
 
