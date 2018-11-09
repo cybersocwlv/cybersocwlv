@@ -12,6 +12,7 @@ Hello there! This post will breifly explain what we're all about, why the societ
 
 ### Our Aims
 
+
 * To create a community for the discussion of cuber security related topics, to increase understand and knowledge of the subject.
 
 * To provide the oppurtunity for students to network and build career links.
@@ -20,6 +21,7 @@ Hello there! This post will breifly explain what we're all about, why the societ
 
 
 ### Our Objectives
+
 
 * To host events and meetings to provide a forum for discussion of cyber security.
 
@@ -30,9 +32,10 @@ Hello there! This post will breifly explain what we're all about, why the societ
 
 ### Membership
 
+
 There are three types of members:
 
-**Members** - open to students of studying a course relevant in some way to cyber security.
+**Members** - open to students studying a course relevant in some way to cyber security.
 
 **Associate Members** - open to students of non-cyber security related cources and non-students.
 
@@ -40,6 +43,7 @@ There are three types of members:
 
 
 ### Our Plans
+
 
 Meetings and events will be at convenient times when students are already in University, unless a particularly special event is organised.
 
@@ -53,6 +57,8 @@ Please share any ideas you have as well!
 
 We are an open and interested society.
 
+
 ---
+
 
 Thanks for reading. Hope to see you at our meetings! (see the events section on the main page for timetables)
