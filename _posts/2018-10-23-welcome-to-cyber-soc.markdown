@@ -12,9 +12,9 @@ Hello there! This post will breifly explain what we're all about, why the societ
 
 ### Our Aims
 
-**
+&nbsp;
 1. To create a community for the discussion of cuber security related topics, to increase understand and knowledge of the subject.
-
+&nbsp;
 2. To provide the oppurtunity for students to network and build career links.
 
 3. To advocate cyber security within the university and provide oppurtunities for students studying any element of cyber security.
